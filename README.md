@@ -30,7 +30,7 @@ QuoteGen is an Android application that displays random quotes fetched from an A
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/QuoteGen.git
+git clone https://github.com/Iftiarchowdhury/QuoteGen.git
 ```
 
 2. Open the project in Android Studio.
